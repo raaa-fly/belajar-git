@@ -13,6 +13,6 @@
  - [Tutorial Git 07 - Percabangan](https://www.petanikode.com/git-branch/)
  - [Tutorial Git 08 - Perbedaan Git Checkout, Git Reset, dan Git Revert](https://www.petanikode.com/git-checkout-reset-revert/)
  - Tutorial Git 09 - Menulis Ulang Sejarah
- - [Tutorial Git 10 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
+ - [Tutorial Git 10 - Mennggunakan Git Fecth dan Git Pull](https://www.petanikode.com/git-remote/)
  - Tutorial Git 11 - Git Tag
  - ...
